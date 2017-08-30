@@ -1,4 +1,9 @@
 # mt
+## Requirements
+* Python 3+
+* Jupyter Notebook
+* Tensorflow 1.2+
+
 ## Seq2Seq (attention based) 
 Go to https://github.com/tensorflow/nmt for the extensive code and Tutorial.
 The data is from [Stanford](https://nlp.stanford.edu/projects/nmt/). 
